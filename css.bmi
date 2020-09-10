@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+}
+h2{
+  text-align:center;
+  color:lightslategray;
+}
+h1{
+  color:red;
+  text-align:center;
+  text-decoration-line:underline;
+
+}
+p{
+  background-color:bisque;
+  text-align:justify;
+  text-justify: inter-word;
+
+}
+td, th {
+  text-align: left;
+  padding: 5px;
+}
+td:nth-child(even){
+  color:blue;
+}
+td:nth-child(odd){
+background-color:grey;
+color:firebrick;
+}
+h4{
+  text-align:left;
+}
